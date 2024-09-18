@@ -10,6 +10,3 @@ Experienced Software Engineer with expertise in developing web applications usin
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarkoArsov&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoArsov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MarkoArsov&limit=5&theme=dark&combine_all_yearly_contributions=true)

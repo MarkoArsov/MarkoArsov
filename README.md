@@ -1,6 +1,6 @@
 # 💫 About Me:
 Experienced Software Engineer with expertise in developing web applications using C# (.NET Core), Java (Spring), Python (Django), and front-end technologies like HTML, CSS, and JavaScript (Angular, React, jQuery). I have a strong foundation in algorithms and data structures, developed through competitive programming in C++, Java, and Python. I enjoy working in collaborative environments and have practical experience in group projects and hackathons, where teamwork and problem-solving are essential. <br/><br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/markoarsov/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/markoarsov/) 
 
 
 # 💻 Tech Stack:

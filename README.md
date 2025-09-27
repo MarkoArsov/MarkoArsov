@@ -2,7 +2,7 @@
 
 I’m a Software Engineer with experience designing and delivering scalable, cloud-native applications across fintech, real estate, and SaaS. I’ve led teams, built microservices backends with .NET Core, developed Angular frontends, and managed cloud infrastructure on AWS and Azure.  
 
-## Tech Stack
+## 🛠️ Tech Stack
 - **Languages:** Python, C#, JavaScript, TypeScript, Java, HTML, CSS, SQL, C, C++, Dart
 - **Frameworks:** .NET Core,  ASP.NET, Angular, React, Django, Flask, Spring Boot, Flutter, Node.js, JQuery
 - **Technologies:** Git, Docker, EF Core, Dapper, Hangfire, LINQ, JSON, MS SQL, PostgreSQL, SQLite, MongoDB, Nx Workspace, Apache Airflow, Shell Script, SSH, Figma, Terraform, XML, Kubernetes, HTTP, REST APIs, SOAP, SFTP, Postman, OAuth, JWT, Selenium, Blazor, Pandas, NumPy

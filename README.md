@@ -15,6 +15,6 @@ I’m a Software Engineer with experience designing and delivering scalable, clo
 - GPA: 9.3/10  
 
 ## Links
-LinkedIn: [linkedin.com/in/markoarsov](https://www.linkedin.com/in/markoarsov/) 
-Skopje Apartments: [**SkopjeApartments.com**](https://www.skopjeapartments.com)
+- LinkedIn: [linkedin.com/in/markoarsov](https://www.linkedin.com/in/markoarsov/) 
+- Skopje Apartments: [skopjeapartments.com](https://www.skopjeapartments.com)
 
